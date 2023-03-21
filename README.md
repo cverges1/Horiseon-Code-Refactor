@@ -1,2 +1,21 @@
 # Horiseon-Code-Refactor
-updating code to comply with accessibility standards
+
+# Description
+
+Tasked with refactoring html elements to be more descriptive, provide alt attributes for images, and refactor css stylesheet to follow a more logical strucure.
+
+# Installation
+
+N/A
+
+# Usage
+
+N/A
+
+# Credits
+
+Original Code was provided by the University of Arizona
+
+# License 
+
+Please refer to the LICENSE in the repo.
