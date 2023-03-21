@@ -2,7 +2,7 @@
 
 # Description
 
-Tasked with refactoring html elements to be more descriptive, provide alt attributes for images, and refactor css stylesheet to follow a more logical strucure.
+Tasked with refactoring html elements to be optizimized for search engines, provide alt attributes for images, and refactor css stylesheet to follow a more logical strucure.
 
 # Installation
 
